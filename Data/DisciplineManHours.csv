@@ -1,0 +1,54 @@
+﻿,,,,Project Mangement & Services,Project Mangement & Services,Project Mangement & Services,Project Mangement & Services,Project Mangement & Services,Project Mangement & Services,Project Mangement & Services,Project Mangement & Services,Estimating,Estimating,Process,Process,Process,Process,Port & Marine,Port & Marine,Port & Marine,Port & Marine,Port & Marine,Water,Water,Water,Modelling,Modelling,Power,Power,Power,Power,Power,Power,Rail,Rail,GIS,Geotech,Geotech,Land Assessments,Land Assessments,Land Assessments
+SDRL Code,Description,Total Cost,Discipline,Study Manager,JESA Lead,JESA PM,Technical Expert,Lead Project Controller,Project Engineer,Lead Document Controller,Planner / Scheduler,Senior Estimator,Graduate Engineer,,Lead Engineer,Engineer Level 1,Lead Engineer,Principal Engneer,Chief Engineer,Engineer Level 2,Lead Designer,Senior Consultant,Lead Consultant,Senior Consultant,Senior Engineer,Chief Engineer,Graduate Engineer,Principal Engineer,Principal Consultant / Specialist,Senior Consultant,Principal Engineer,Principal Consultant / Specialist,Senior Consultant,Principle Consultant,Lead Consultant,Senior Designer 0 GIS,Senior Consultant,Principal Engineer,Senior Consultant,Senior Consultant,Lead Consultant
+A,PROJECT MANAGEMENT,"10,288",60.5,38,0,0,9,5,0,8.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+B,SCOPING STUDY,"41,333",332.5,23,0,0,0,0,9,0,0,0,0,0,22,70,0,35,25,10.5,10,0,0,10,20,0,0,0,0,64,0,0,0,9,0,9,10,0,0,0,0
+E,Electrical,"15,671",139,16,0,0,0,0,9,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,64,0,0,0,0,0,0,0,0,0,0,0
+1EO1,Preliminary Transmission Corridor Selection Report & Substation Location Assessment0 to be included as part of the final report 1G01 and 1G02,"9,292",80,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,0,0,0,0,0,0,0,0,0,0,0
+1EO2,Preliminary Electrical Overall Single Line Diagram0 To be included as an Appendix to the final report 1G01 and 1G02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1EO3,"Power Generation / PPA, Transmission and Distribution Technology Selection and Preliminary Design 0 to be included as part of the final report 1G01 and 1G02","6,379",59,0,0,0,0,0,9,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+I,Instrumentation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1I01,Network and Control Schematic (for support of Class 5 Estimate),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+S,Structural / Civil / Architectural,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1S01.1,"High Level Options Study to minimise materials and cost (Construction material sources and availability, optimised usage of available materials, skills and potential construction methods) 0 to be included as part of the final report 1G01 and 1G02",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1S01.2,"Site Civil Constraints Evaluation  (i.e. earthworks, Geotech, flooding, etc.)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+G,General,"5,470",39,7,0,0,0,0,0,0,0,0,0,0,22,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1G01,Scoping Study Report Ethipoia and Djibouti,"3,509",26,4,0,0,0,0,0,0,0,0,0,0,12,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1G02,Scoping Study Report Djibouti,"1,961",13,3,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1G03,Basis of Estimate & Schedule including high level MTOs as applicable for 1G01 and 1G02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1G04,AACEI Class 5 Estimate  & Project Schedule L2 for 1G01 and 1G02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1G05,Site Layouts 0 Preliminary General Arrangements ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1G06,Safety in Design 0 Conceptual description in the final report 1G01 and 1G02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+J,Geotechnical,"5,281",49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,20,0,0,0,0,0,0,0,0,0,0,9,10,0,0,0,0
+1J01,Preliminary Geotechnical Desktop Assessment 0 to be included as part of the final report 1G01 and 1G02 (including GIS),"5,281",49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,20,0,0,0,0,0,0,0,0,0,0,9,10,0,0,0,0
+1J02,Preliminary Geotechnical Risk Register0 to be included as an appendix to the final report 1G01 and 1G02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M,Mechanical / Piping,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1M01,Pipeline Conceptual study0 Water and H2 pipes (to be included as an appendix to the final report 1G01 and 1G02),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+N,Port / Marine,"13,832",95.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,25,10.5,10,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0
+1N01,Preliminary Site Characteristics (Met0ocean),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1N01.1,"Met0ocean Conditions (tide/water level, currents, wind, waves, ice) Optional item 0TBC",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1N02,Preliminary Functional Requirements/Needs Assessment  covering items 1N02.1002.4 (to be included in the final report 1G01 and 1G02),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1N02.1,Port Throughput Assessment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1N02.2,Port Occupancy Assessment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1N02.3,Port Availability Assessment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1N02.4,Preliminary Shipping Plan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1N03,Preliminary Engineering Concept Design  covering items 1N03.1003.4 (to be included in the final report 1G01 and 1G02),"1,944",9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0
+1N03.1,Shipping and Navigation Concept,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1N03.2,Port Masterplan/Development Plan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1N03.3,ERW/UXO Risk Assessment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1N03.4,Site Selections Assessment 0Multi Criteria Analysis 0 Comparison/Assessment of alternative Sites and Layouts (of the nominated sites by the Principal) ,"11,887",86.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,25,10.5,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1N04,Port/Marine Environmental Scoping Assessment (to be included in the final report 1G01 and 1G02),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1N04.1,Land Use & Zoning Assessment including impact on marine environment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1N04.2,Impact on Communities ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1N04.3,Impact on Cultural Heritage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P,Process,"1,080",10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1P01,Preliminary Block Flow Diagram,"1,080",10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1P02,Preliminary Heat and Material Balance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1P03,Preliminary Utility and Material Balance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q,Process Safety,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1Q01,Coarse HAZID (on Options),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1Q02,QRA (if required to confirm adequacy of Siting/Layout),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1Q03,ALARP Demonstration (if required by HAZID),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+W,Water Resources,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1W01,Preliminary Water Supply Assessment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1W01.1,Preliminary Wastewater Discharge Assessment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Total Hours,,"51,620",393,84,24,20,40,32,112,20,44,48,152,0,156,368,232,102,134,168,32,244,56,96,192,64,120,40,40,96,80,40,108,48,146,172,174,66,128,80,80

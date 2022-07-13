@@ -1,0 +1,52 @@
+﻿Discipline,SDRL Code,Description,Original Budget - Hours,Original Budget - Cost,Approved Variations - Hours,Approved Variations  - Cost,Current Budget - Hours,Current Budget - Cost,Incurred to Date - Hours,Incurred to Date - Cost,Current Forecast  - Hours,Current Forecast - Total
+PROJECT MANAGEMENT,A,PROJECT MANAGEMENT,284,41809,0,0,284,41809,61,10288,284,41809
+SCOPING STUDY,B,SCOPING STUDY,3554,426628,0,0,3554,426628,333,41333,3554,426628
+Electrical,E,Electrical,420,46471,0,0,420,1279884,139,15671,420,1279884
+Electrical,1EO1,Preliminary Transmission Corridor Selection Report & Substation Location Assessment0 to be included as part of the final report 1G01 and 1G02,140,15490,0,0,140,426628,80,9292,140,426628
+Electrical,1EO2,Preliminary Electrical Overall Single Line Diagram0 To be included as an Appendix to the final report 1G01 and 1G02,140,15490,0,0,140,426628,0,0,140,426628
+Electrical,1EO3,"Power Generation / PPA, Transmission and Distribution Technology Selection and Preliminary Design0 to be included as part of the final report 1G01 and 1G02",140,15490,0,0,140,426628,59,6379,140,426628
+Instrumentation,I,Instrumentation,48,6165,0,0,48,6165,0,0,48,6165
+Instrumentation,1I01,Network and Control Schematic (for support of Class 5 Estimate),48,6165,0,0,48,6165,0,0,48,6165
+Structural / Civil / Architectural,S,Structural / Civil / Architectural,80,11252,0,0,80,11252,0,0,80,11252
+Structural / Civil / Architectural,1S01.1,"High Level Options Study to minimise materials and cost (Construction material sources and availability, optimised usage of available materials, skills and potential construction methods) 0 to be included as part of the final report 1G01 and 1G02",40,5881,0,0,40,11252,0,0,40,5881
+Structural / Civil / Architectural,1S01.2,"Site Civil Constraints Evaluation  (i.e. earthworks, Geotech, flooding, etc.)",40,5371,0,0,40,11252,0,0,40,5371
+General,G,General,520,58968,0,0,520,11252,39,5470,520,58968
+General,1G01,Scoping Study Report Ethipoia and Djibouti,78,10022,0,0,78,11252,26,3509,78,10022
+General,1G02,Scoping Study Report Djibouti,78,10022,0,0,78,11252,13,1961,78,10022
+General,1G03,Basis of Estimate & Schedule including high level MTOs as applicable for 1G01 and 1G02,112,11143,0,0,112,11252,0,0,112,11143
+General,1G04,AACEI Class 5 Estimate  & Project Schedule L2 for 1G01 and 1G02,68,6407,0,0,68,11252,0,0,68,6407
+General,1G05,Site Layouts 0 Preliminary General Arrangements ,120,13961,0,0,120,11252,0,0,120,13961
+General,1G06,Safety in Design 0 Conceptual description in the final report 1G01 and 1G02,64,7413,0,0,64,11252,0,0,64,7413
+Geotechnical,J,Geotechnical,300,32734,0,0,300,11252,49,5281,300,32734
+Geotechnical,1J01,Preliminary Geotechnical Desktop Assessment 0 to be included as part of the final report 1G01 and 1G02 (including GIS),218,23630,0,0,218,11252,49,5281,218,23630
+Geotechnical,1J02,Preliminary Geotechnical Risk Register0 to be included as an appendix to the final report 1G01 and 1G02,82,9104,0,0,82,11252,0,0,82,9104
+Mechanical / Piping,M,Mechanical / Piping,140,15721,0,0,140,11252,0,0,140,15721
+Mechanical / Piping,1M01,Pipeline Conceptual study0 Water and H2 pipes (to be included as an appendix to the final report 1G01 and 1G02),140,15721,0,0,140,11252,0,0,140,15721
+Port / Marine,N,Port / Marine,1098,148906,0,0,1098,11252,96,13832,1098,148906
+Port / Marine,1N01,Preliminary Site Characteristics (Met0ocean),48,7286,0,0,48,11252,0,0,48,7286
+Port / Marine,1N01.1,"Met0ocean Conditions (tide/water level, currents, wind, waves, ice) Optional item 0TBC",196,29753,0,0,196,11252,0,0,196,29753
+Port / Marine,1N02,Preliminary Functional Requirements/Needs Assessment  covering items 1N02.1002.4 (to be included in the final report 1G01 and 1G02),34,3375,0,0,34,11252,0,0,34,3375
+Port / Marine,1N02.1,Port Throughput Assessment,34,3375,0,0,34,11252,0,0,34,3375
+Port / Marine,1N02.2,Port Occupancy Assessment,34,3375,0,0,34,11252,0,0,34,3375
+Port / Marine,1N02.3,Port Availability Assessment,34,3375,0,0,34,11252,0,0,34,3375
+Port / Marine,1N02.4,Preliminary Shipping Plan,34,3375,0,0,34,11252,0,0,34,3375
+Port / Marine,1N03,Preliminary Engineering Concept Design  covering items 1N03.1003.4 (to be included in the final report 1G01 and 1G02),132,21798,0,0,132,11252,9,1944,132,21798
+Port / Marine,1N03.1,Shipping and Navigation Concept,34,3375,0,0,34,11252,0,0,34,3375
+Port / Marine,1N03.2,Port Masterplan/Development Plan,54,9774,0,0,54,11252,0,0,54,9774
+Port / Marine,1N03.3,ERW/UXO Risk Assessment,72,13678,0,0,72,11252,0,0,72,13678
+Port / Marine,1N03.4,Site Selections Assessment 0Multi Criteria Analysis 0 Comparison/Assessment of alternative Sites and Layouts (of the nominated sites by the Principal) ,104,15488,0,0,104,11252,87,11887,104,15488
+Port / Marine,1N04,Port/Marine Environmental Scoping Assessment (to be included in the final report 1G01 and 1G02),72,7720,0,0,72,11252,0,0,72,7720
+Port / Marine,1N04.1,Land Use & Zoning Assessment including impact on marine environment,72,7720,0,0,72,11252,0,0,72,7720
+Port / Marine,1N04.2,Impact on Communities ,72,7720,0,0,72,11252,0,0,72,7720
+Port / Marine,1N04.3,Impact on Cultural Heritage,72,7720,0,0,72,11252,0,0,72,7720
+Process,P,Process,468,54347,0,0,468,11252,10,1080,468,54347
+Process,1P01,Preliminary Block Flow Diagram,156,18116,0,0,156,11252,10,1080,156,18116
+Process,1P02,Preliminary Heat and Material Balance,156,18116,0,0,156,11252,0,0,156,18116
+Process,1P03,Preliminary Utility and Material Balance,156,18116,0,0,156,11252,0,0,156,18116
+Process Safety,Q,Process Safety,192,22226,0,0,192,11252,0,0,192,22226
+Process Safety,1Q01,Coarse HAZID (on Options),64,7409,0,0,64,11252,0,0,64,7409
+Process Safety,1Q02,QRA (if required to confirm adequacy of Siting/Layout),64,7409,0,0,64,11252,0,0,64,7409
+Process Safety,1Q03,ALARP Demonstration (if required by HAZID),64,7409,0,0,64,11252,0,0,64,7409
+Water Resources,W,Water Resources,288,29837,0,0,288,11252,0,0,288,29837
+Water Resources,1W01,Preliminary Water Supply Assessment,152,15900,0,0,152,11252,0,0,152,15900
+Water Resources,1W01.1,Preliminary Wastewater Discharge Assessment,136,13938,0,0,136,11252,0,0,136,13938
