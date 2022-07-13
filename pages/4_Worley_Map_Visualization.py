@@ -2,8 +2,6 @@ import streamlit as st
 import folium
 from folium import plugins
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
 from geopy.geocoders import Nominatim
 from folium.plugins import Search
 from streamlit_folium import st_folium
