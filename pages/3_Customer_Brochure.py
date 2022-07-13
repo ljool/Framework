@@ -22,11 +22,11 @@ with st.sidebar:
     st.sidebar.title("**About**")
     st.sidebar.write(
     """
-    This multipage app details and demonstrates the functionality and technical requirements of the Worley Portfolio Management Framework.
+    This multipage app details and demonstrates the functionality and technical requirements of the Worley Portfolio Management Tool.
     """
     )
 
-st.title("*Worley Framework for Portfolio Management r- Customer Brochure*")
+st.title("*Worley Portfolio Management Tool - Customer Brochure*")
 st.subheader("Institutionalising Disruptive Thinking & Breakthrough")
 
 

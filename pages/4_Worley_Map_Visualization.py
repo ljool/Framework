@@ -2,18 +2,12 @@ import streamlit as st
 import folium
 from folium import plugins
 import pandas as pd
-from geopy.geocoders import Nominatim
 from folium.plugins import Search
 from streamlit_folium import st_folium
 import branca
 import base64
 import io
 
-
-from geopy.extra.rate_limiter import RateLimiter
-
-geolocator = Nominatim(user_agent="applicator")
-geocode = RateLimiter(geolocator.geocode, min_delay_seconds=2)
 m=folium.Map()
 colors = [
     'red',
@@ -120,7 +114,7 @@ streamlit_style = """
 st.markdown(streamlit_style, unsafe_allow_html=True)
 
 # Customize page title
-st.title("*Global Visualization Tool for Asset Management*")
+st.title("*Visualization Tool for Global Asset Management*")
 st.subheader("Institutionalising Disruptive Thinking & Breakthrough")
 
 
@@ -129,12 +123,12 @@ with st.sidebar:
     st.sidebar.title("**About**")
     st.sidebar.write(
     """
-    This multipage app details and demonstrates the functionality and technical requirements of the Worley Portfolio Management Framework.
+    This multipage app details and demonstrates the functionality and technical requirements of the Worley Portfolio Management Tool.
     """
     )
 
 markdown = """
-The Global Visualization Tool for Asset Management is an application for the visualization of project and portfolio related assets - including production facilities, offices, supply and transportation networks, and project locations.
+The Visualization Tool for Global Asset Management is one component of the Worley Portfolio Management Tool for the visualization of project and portfolio related assets - including production facilities, offices, supply and transportation networks, and project locations.
 
 """
 
@@ -142,5 +136,4 @@ st.markdown(markdown)
 
 
 st_data = st_folium(m, width=1200,height=1500)
-#m.save('WorleyET.html')
                 

@@ -2,7 +2,10 @@ streamlit
 pandas
 altair
 numpy
-streamlit-aggrid==0.2.3-2
+st_aggrid
 streamlit-echarts
+base64
 streamlit_folium
 folium
+brance
+io

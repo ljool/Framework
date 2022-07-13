@@ -17,19 +17,19 @@ with st.sidebar:
     st.sidebar.title("**About**")
     st.sidebar.write(
     """
-    This multipage app details and demonstrates the functionality and technical requirements of the Worley Portfolio Management Framework.
+    This multipage app details and demonstrates the functionality and technical requirements of the Worley Portfolio Management Tool.
     """
     )
 
 # Customize page title
-st.title("*Worley Framework for Portfolio Management*")
+st.title("*Worley Portfolio Management Tool*")
 
 st.header("Value Proposition")
 
 st.subheader("Who is your target audience?")
 
 markdown = """
-The target audience for the Worley Framework for Portfolio Management is **Project/Portfolio Managers.**
+The target audience for the Worley Portfolio Management Tool is **Project/Portfolio Managers.**
 """
 st.markdown(markdown)
 
@@ -54,11 +54,11 @@ st.markdown(markdown)
 st.subheader("What will your services do for them?")
 
 markdown = """
-Through standardized reporting, the Worley Framework for Portfolio Management will provide analytics from the portfolio level down to the scope level for a particular project.
+Through standardized reporting, the Worley Portfolio Management Tool will provide analytics from the portfolio level down to the scope level for a particular project.
 
-The Framework will act as the one source of truth for portfolio managers to gain insight into all projects under their jurisdiction - minimising time spent interrogating individual project reports.
+The Tool will act as the one source of truth for portfolio managers to gain insight into all projects under their jurisdiction - minimising time spent interrogating individual project reports.
 
-The Framework will allow for smoother communication between portfolio and project managers - developing a deeper level of trust between all layers of the organizaiton.
+The Tool will allow for smoother communication between portfolio and project managers - developing a deeper level of trust between all layers of the organizaiton.
 
 With trust in their information, portfolio managers can communicate progress and analytics at all levels of granularity to the customer, enabling optimal resource allocation and deepening customer relationships.
 """
