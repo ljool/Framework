@@ -6,3 +6,4 @@ streamlit_aggrid
 streamlit-echarts
 streamlit_folium
 folium
+openpyxl
