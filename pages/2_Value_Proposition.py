@@ -82,9 +82,3 @@ The benefits of this system will be proven and quantified through feedback from 
 """
 st.markdown(markdown)
 
-st.subheader("Why should they prefer your offerings over the competition?")
-
-markdown = """
-There is currently no other similar off the shelf product or offering developed that can be provided without deep interrogation of Worley systems.
-"""
-st.markdown(markdown)
