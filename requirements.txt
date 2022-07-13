@@ -1,0 +1,11 @@
+streamlit
+pandas
+altair
+numpy
+st_aggrid
+streamlit-echarts
+base64
+streamlit_folium
+folium
+brance
+io
