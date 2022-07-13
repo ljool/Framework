@@ -4,8 +4,5 @@ altair
 numpy
 streamlit_aggrid
 streamlit-echarts
-base64
 streamlit_folium
 folium
-brance
-io
